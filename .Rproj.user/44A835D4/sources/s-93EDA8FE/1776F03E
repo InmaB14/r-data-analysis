@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1529413480616.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1776F03E",
+    "lastKnownWriteTime" : 1529413501,
+    "last_content_update" : 1529491492058,
+    "path" : "C:/Users/Inma/Desktop/data-analysis/4_data_analysis.R",
+    "project_path" : "4_data_analysis.R",
+    "properties" : {
+        "cursorPosition" : "16,16",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
